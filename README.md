@@ -1,5 +1,5 @@
 # project-komurindo-GCS
-Ground Control Station KOMURINDO
+KOMURINDO Ground Control Station
 
 Description:
 Software pada desktop yang dapat menerima data dari muatan roket dan menampilkannya pada grafik dan terminal console. 
